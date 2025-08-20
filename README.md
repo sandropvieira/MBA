@@ -88,7 +88,7 @@ Feedbacks e sugestões são bem-vindos!
 
 📩 Entre em contato: sandro@formuladigital.com.br  
 
-🌐 Conecte-se no \[LinkedIn]https://www.linkedin.com/in/sandropvieira/  
+🌐 Conecte-se no \https://www.linkedin.com/in/sandropvieira/  
 
 
 
