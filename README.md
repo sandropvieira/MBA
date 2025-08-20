@@ -1,4 +1,4 @@
 # MBA
 Aprendendo Git e Github
 
-Atualziando meu arquivo de Readme
+Atualizando meu arquivo de Readme
