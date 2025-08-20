@@ -7,7 +7,6 @@ Este repositório contém materiais, anotações, exercícios e projetos desenvo
 O objetivo é documentar a jornada de aprendizado e compartilhar práticas de \*\*estatística, programação, business intelligence e ciência de dados\*\*.
 
 
-
 ---
 
 
