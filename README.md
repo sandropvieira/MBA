@@ -1,4 +1,4 @@
-\# 📊 Pós-graduação em Análise de Dados - Xperiun
+\# 📊 Pós-graduação 360 em Análise de Dados - Xperiun
 
 
 
@@ -27,7 +27,7 @@ O objetivo é documentar a jornada de aprendizado e compartilhar práticas de \*
 
 
 
-\## 📂 Estrutura do Repositório
+\## 📂 Estrutura do Repositório a ser criado
 
 \- `notebooks/` → Jupyter Notebooks com exercícios e análises.  
 
@@ -92,6 +92,3 @@ Feedbacks e sugestões são bem-vindos!
 
 
 ---
-
-
-
